@@ -49,7 +49,7 @@ A basic react native app with [`react-native-firebase`](https://github.com/inver
 - 4.3) **[Android]** If you haven't already got an android device attached/emulator running then you'll need to get one running (make sure the emulator is with Google Play / APIs). When ready run `npm run android` or `yarn run android` from the root of your project.
 
 If all has gone well you'll see an initial screen like the one below.
-
+<!-- 
 ## Screenshots
 
 ![preview](https://i.imgur.com/4lG4HuS.png)
@@ -82,4 +82,4 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 ### License
 
-- See [LICENSE](/LICENSE)
+- See [LICENSE](/LICENSE) -->
