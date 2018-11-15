@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "329600842007",
+    "firebase_url": "https://noted-field-216415.firebaseio.com",
+    "project_id": "noted-field-216415",
+    "storage_bucket": "noted-field-216415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329600842007:android:fc5f2aa812af825e",
+        "android_client_info": {
+          "package_name": "com.uabc.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329600842007-svd0ldeorlavnkk55g3n683ah0g0bvjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYanarv3-ep32GArTyfgSYyJre0tD8SJk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
